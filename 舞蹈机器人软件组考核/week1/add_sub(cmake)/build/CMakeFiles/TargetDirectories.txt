@@ -1,3 +1,0 @@
-/home/sarah/文档/舞蹈机器人软件组考核/add_sub/build/CMakeFiles/rebuild_cache.dir
-/home/sarah/文档/舞蹈机器人软件组考核/add_sub/build/CMakeFiles/edit_cache.dir
-/home/sarah/文档/舞蹈机器人软件组考核/add_sub/build/CMakeFiles/add_sub.dir
